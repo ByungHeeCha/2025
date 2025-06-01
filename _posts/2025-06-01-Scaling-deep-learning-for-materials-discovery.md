@@ -76,7 +76,7 @@ By scaling both model size and training data, GNoME enables the discovery of ove
   <strong>Figure:</strong> The pipeline of GNOME.
 </div>
 
-<!-- ![The pipeline of GNOME](assets/img/2025-06-01-Scaling-deep-learning-for-materials-discovery/Gnome_pipeline.png) -->
+<!-- ![The pipeline of GNOME](assets/img/2025-06-01-Scaling-deep-learning-for-materials-discovery/Gnome_pipeline.png)asdfaf -->
 
 ### Generation and Filtration at Scale
 
